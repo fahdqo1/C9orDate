@@ -1,18 +1,12 @@
-from flask import Flask, send_from_directory
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-@app.route('/')
-def home():
-    return "Welcome to Game Library!"
-
-@app.route('/api/game/<game_id>')
+# Example API route
+@app.route('/api/gameid/<game_id>', methods=['GET'])
 def get_game(game_id):
-    try:
-        # Serve the game zip file
-        return send_from_directory('games', f'{game_id}.zip', as_attachment=True)
-    except Exception as e:
-        return {"error": str(e)}, 404
+    # Example response
+    return jsonify({"game_id": game_id, "message": "Game found!"}), 200
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

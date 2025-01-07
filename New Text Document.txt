@@ -1,3 +1,5 @@
+cd C:\Server
+
 heroku ps:scale web=1 -a gamelibrary
 
 Verify it's running:
@@ -13,5 +15,16 @@ git branch
 
 heroku logs --tail -a gamelibrary
 
+
+git push heroku main
+
+
+Make the changes :
+
+git init
+git add .
+git commit -m "Making Changing in the app.py"
+
+git push heroku master
 
 git push heroku main

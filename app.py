@@ -30,14 +30,16 @@ def validate_login():
         # Read login.json
         if os.path.exists(LOGIN_FILE_PATH):
             with open(LOGIN_FILE_PATH, "r") as file:
-                valid_ids = file.read().splitlines()
+                valid_ids = json.load(file)  # Parse JSON
 
-            if user_id in valid_ids:
-                return jsonify({"status": "success", "message": "Login successful"})
-            else:
-                return jsonify({"status": "error", "message": "Invalid login ID"}), 401
+            # Check if user_id exists in the list of dictionaries
+            for entry in valid_ids:
+                if entry.get("user_id") == user_id:
+                    return jsonify({"status": "success", "message": "1"})
+
+            return jsonify({"status": "error", "message": "2"}), 401
         else:
-            return jsonify({"status": "error", "message": "Login file not found"}), 500
+            return jsonify({"status": "error", "message": "3"}), 500
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
 

@@ -8,5 +8,7 @@ heroku ps -a gamelibrary
 Run the Flask development server:
 flask run
 
+git branch
+
 
 heroku logs --tail -a gamelibrary

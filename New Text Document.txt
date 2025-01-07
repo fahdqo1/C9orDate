@@ -12,3 +12,6 @@ git branch
 
 
 heroku logs --tail -a gamelibrary
+
+
+git push heroku main

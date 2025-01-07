@@ -20,28 +20,34 @@ def get_game_zip(game_id):
         return send_from_directory(ZIP_FILES_PATH, zip_file, as_attachment=True)
     else:
         return jsonify({"error": "Game not found", "game_id": game_id}), 404
-
-@app.route("/api/validate-login", methods=["POST"])
+        
+@app.route("/api/validate-login", methods=["GET", "POST"])
 def validate_login():
-    try:
-        data = request.json
-        user_id = data.get("user_id")
+    if request.method == "GET":
+        return jsonify({"message": "Use POST to validate login"})
+    
+    if request.method == "POST":
+        try:
+            data = request.json
+            user_id = data.get("user_id")
+            if not user_id:
+                return jsonify({"status": "error", "message": "User ID is missing"}), 400
 
-        # Read login.json
-        if os.path.exists(LOGIN_FILE_PATH):
-            with open(LOGIN_FILE_PATH, "r") as file:
-                valid_ids = json.load(file)  # Parse JSON
+            # Read login.json
+            if os.path.exists(LOGIN_FILE_PATH):
+                with open(LOGIN_FILE_PATH, "r") as file:
+                    valid_ids = json.load(file)  # Parse JSON
 
-            # Check if user_id exists in the list of dictionaries
-            for entry in valid_ids:
-                if entry.get("user_id") == user_id:
-                    return jsonify({"status": "success", "message": "1"})
+                for entry in valid_ids:
+                    if entry.get("user_id") == user_id:
+                        return jsonify({"status": "success", "message": "1"})
 
-            return jsonify({"status": "error", "message": "2"}), 401
-        else:
-            return jsonify({"status": "error", "message": "3"}), 500
-    except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
+                return jsonify({"status": "error", "message": "Invalid User ID"}), 401
+            else:
+                return jsonify({"status": "error", "message": "Login file not found"}), 500
+        except Exception as e:
+            return jsonify({"status": "error", "message": str(e)}), 500
+
 
 if __name__ == "__main__":
     app.run(debug=True)

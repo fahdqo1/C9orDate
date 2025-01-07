@@ -9,7 +9,7 @@ heroku ps -a gamelibrary
 
 Run the Flask development server:
 flask run
-
+heroku ps -a gamelibrary
 git branch
 
 
@@ -23,7 +23,7 @@ Make the changes :
 
 git init
 git add .
-git commit -m "Making Changing in the app.py"
+git commit -m "Making Changes"
 
 git push heroku master
 

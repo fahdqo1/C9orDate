@@ -1,0 +1,12 @@
+heroku ps:scale web=1 -a gamelibrary
+
+Verify it's running:
+
+heroku ps -a gamelibrary
+
+
+Run the Flask development server:
+flask run
+
+
+heroku logs --tail -a gamelibrary

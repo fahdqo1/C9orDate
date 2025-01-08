@@ -5,6 +5,7 @@ import json
 app = Flask(__name__)
 
 # Define paths
+GAME_DATA_PATH = os.path.join(os.getcwd(), "gamedata", "game.data.json")
 LOGIN_FILE_PATH = os.path.join(os.getcwd(), "code", "login.json")
 ZIP_FILES_PATH = os.path.join(os.getcwd(), "games")
 
@@ -47,6 +48,30 @@ def validate_login():
                 return jsonify({"status": "error", "message": "Login file not found"}), 500
         except Exception as e:
             return jsonify({"status": "error", "message": str(e)}), 500
+            
+        @app.route("/api/game-data", methods=["GET"])
+        def get_game_data():
+            """Serve the game data file."""
+            if os.path.exists(GAME_DATA_PATH):
+                return send_file(GAME_DATA_PATH, as_attachment=False)
+            else:
+                return jsonify({"error": "Game data not found"}), 404
+
+        @app.route("/api/game-data", methods=["POST"])
+        def upload_game_data():
+            """Allow uploading a new game data file."""
+            if "file" not in request.files:
+                return jsonify({"error": "No file part in the request"}), 400
+
+            file = request.files["file"]
+            if file.filename == "":
+                return jsonify({"error": "No selected file"}), 400
+
+            if file and file.filename.endswith(".json"):
+                file.save(GAME_DATA_PATH)
+                return jsonify({"success": "Game data updated successfully"})
+            else:
+                return jsonify({"error": "Invalid file format. Only .json files are allowed"}), 400
 
 
 if __name__ == "__main__":

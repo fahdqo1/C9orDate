@@ -7,6 +7,7 @@ app = Flask(__name__)
 # Define paths
 DATA_FILES_PATH = os.path.join(os.getcwd(), "data")
 GAME_DATA_FILE = "game_data.json"
+NEW_GAMES_FILE = "game_newadded.json"  # New file for recently added games
 LOGIN_FILE_PATH = os.path.join(os.getcwd(), "code", "login.json")
 ZIP_FILES_PATH = os.path.join(os.getcwd(), "games")
 
@@ -59,7 +60,17 @@ def get_game_data():
     else:
         return jsonify({"error": "Game data not found"}), 404
 
-
+# New Endpoint for Recently Added Games
+@app.route("/api/new-games", methods=["GET"])
+def get_new_games():
+    file_path = os.path.join(DATA_FILES_PATH, NEW_GAMES_FILE)
+    
+    if os.path.exists(file_path):
+        with open(file_path, "r") as file:
+            new_games = json.load(file)
+        return jsonify(new_games)
+    else:
+        return jsonify({"error": "New games data not found"}), 404
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,0 +1,5 @@
+{
+  "latest_version": "7.0.0",
+  "update_url": "https://discord.gg/mTA8KDMwBG",
+  "message": "A new version of the app is available. Please update to continue."
+}

@@ -208,5 +208,17 @@
         "ReleaseDate": "",
         "Developer": "",
         "Platforms": [""]
-    }
+    },
+	  {
+    "Title": "Silent",
+    "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2832560/header.jpg"
+  },
+  {
+    "Title": "Arizona Sunshine Remake",
+    "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2897700/header.jpg"
+  },
+  {
+    "Title": "RollerCoaster Tycoon®: Deluxe",
+    "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/285310/header.jpg"
+  }
 ]

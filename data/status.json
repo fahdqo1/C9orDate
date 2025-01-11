@@ -1,0 +1,4 @@
+[
+    { "user_id": "user1", "status": "online", "last_active": "2025-01-01T12:00:00Z" },
+    { "user_id": "user2", "status": "offline", "last_active": "2025-01-01T11:50:00Z" }
+]

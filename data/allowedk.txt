@@ -1,6 +1,6 @@
 [
     { "uuid": "59659680-DF24-11ED-9998-2A178D178A01", "password": "sa1", "time": "20" },
-    { "uuid": "9D2DD0B5-249D-C9D4-7FF5-08BFB8D31D38", "password": "U_KR7", "time": "1" },
+    { "uuid": "9D2DD0B5-249D-C9D4-7FF5-08BFB8D31D38", "password": "UKR7", "time": "1" },
     { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "time": "20" },
     { "uuid": "03560274-043C-05B1-FB06-9D0700080009", "password": "11", "time": "11" },
     { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "time": "11" }

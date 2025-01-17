@@ -3,7 +3,7 @@
     { "uuid": "59659680-DF24-11ED-9998-2A178D178A01", "password": "sa1", "time": "20", "addingtime": "", "offtime": "no" },
     { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "time": "20", "addingtime": "", "offtime": "no" },
     { "uuid": "03560274-043C-05B1-FB06-9D0700080009", "password": "55", "time": "48", "addingtime": "", "offtime": "no" },
-    { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "time": "11", "addingtime": "", "offtime": "no"}و
-    { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "time": "48", "addingtime": "", "offtime": "no"}و
+    { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "time": "11", "addingtime": "", "offtime": "no"},
+    { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "time": "48", "addingtime": "", "offtime": "no"},
     { "uuid": "8ADA5DC1-E02F-A2CD-0890-581122B67664", "password": "kasper22", "time": "48", "addingtime": "", "offtime": "no"}
 ]

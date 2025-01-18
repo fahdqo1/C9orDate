@@ -16,20 +16,40 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/341940/header.jpg"
     },
     {
+        "Id": "424840",
         "Title": "Little Nightmares",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/424840/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg?t=1730127751",
+        "ReleaseDate": "27 Apr, 2017",
+        "Developer": "Tarsier Studios",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Who's Your Daddy?!",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/427730/header.jpg"
     },
     {
+        "Id": "429570",
         "Title": "The Walking Dead: Michonne - A Telltale Miniseries",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/429570/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429570/header.jpg?t=1729702885",
+        "ReleaseDate": "23 Feb, 2016",
+        "Developer": "Telltale Games",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
+        "Id": "447020",
         "Title": "Farming Simulator 17",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/447020/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
+        "ReleaseDate": "24 Oct, 2016",
+        "Developer": "GIANTS Software",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
         "Title": "Katana ZERO",
@@ -44,8 +64,14 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/518920/header.jpg"
     },
     {
+        "Id": "536220",
         "Title": "The Walking Dead: A New Frontier",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/536220/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536220/header.jpg?t=1729702791",
+        "ReleaseDate": "20 Dec, 2016",
+        "Developer": "Telltale Games",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "WWE 2K23",
@@ -60,16 +86,36 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/555160/header.jpg"
     },
     {
+        "Id": "571740",
         "Title": "Golf It!",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/571740/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg?t=1707842297",
+        "ReleaseDate": "18 Aug, 2023",
+        "Developer": "Perfuse Entertainment",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
+        "Id": "613100",
         "Title": "House Flipper",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/header.jpg?t=1735574663",
+        "ReleaseDate": "17 May, 2018",
+        "Developer": "Empyrean",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
+        "Id": "617160",
         "Title": "Home Sweet Home",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/617160/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617160/header.jpg?t=1544779603",
+        "ReleaseDate": "26 Sep, 2017",
+        "Developer": "YGGDRAZIL GROUP CO.,LTD",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "LEGO Marvel Super Heroes 2",
@@ -80,8 +126,14 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/682990/header.jpg"
     },
     {
+        "Id": "732690",
         "Title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/732690/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/732690/header.jpg?t=1686587846",
+        "ReleaseDate": "28 May, 2019",
+        "Developer": "Steel Wool Studios",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Assetto Corsa Competizione",
@@ -92,56 +144,113 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829110/header.jpg"
     },
     {
+        "Id": "851850",
         "Title": "DRAGON BALL Z: KAKAROT",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/851850/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg?t=1731662591",
+        "ReleaseDate": "16 Jan, 2020",
+        "Developer": "CyberConnect2 Co. Ltd.",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
+        "Id": "860510",
         "Title": "Little Nightmares II",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
+        "ReleaseDate": "10 Feb, 2021",
+        "Developer": "Tarsier Studios",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Session: Skate Sim",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/861650/header.jpg"
     },
     {
+        "Id": "870780",
         "Title": "Control Ultimate Edition",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg?t=1726554320",
+        "ReleaseDate": "27 Aug, 2020",
+        "Developer": "Remedy Entertainment",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
-        "Title": "LEGO® Star Wars™: The Skywalker Saga",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/920210/header.jpg"
+        "Id": "920210",
+        "Title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1702937065",
+        "ReleaseDate": "5 Apr, 2022",
+        "Developer": "TT Games",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
+        "Id": "960090",
         "Title": "Bloons TD 6",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/960090/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1723603688",
+        "ReleaseDate": "17 Dec, 2018",
+        "Developer": "Ninja Kiwi",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
+        "Id": "962130",
         "Title": "Grounded",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1727719725",
+        "ReleaseDate": "27 Sep, 2022",
+        "Developer": "Obsidian Entertainment",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Skater XL - The Ultimate Skateboarding Game",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/962730/header.jpg"
     },
     {
+        "Id": "993090",
         "Title": "Lossless Scaling",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg?t=1736886665",
+        "ReleaseDate": "Dec 28, 2018",
+        "Developer": "THS",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Nightmare Reaper",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1051690/header.jpg"
     },
     {
+        "Id": "1084020",
         "Title": "TheoTown",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1084020/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084020/header.jpg?t=1729507396",
+        "ReleaseDate": "5 Jun, 2019",
+        "Developer": "Lobby Divinus",
+        "Platforms": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ]
     },
     {
         "Title": "Builder Simulator",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1120320/header.jpg"
     },
     {
+        "Id": "1144200",
         "Title": "Ready or Not",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg?t=1733935197",
+        "ReleaseDate": "13 Dec, 2023",
+        "Developer": "VOID Interactive",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Pumpkin Jack",
@@ -152,23 +261,35 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg"
     },
     {
+        "Id": "1426210",
         "Title": "It Takes Two",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1730911936",
+        "ReleaseDate": "25 Mar, 2021",
+        "Developer": "Hazelight Studios",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Heavy Rain",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/960910/header.jpg"
     },
     {
-        "Title": "Call of Duty®: Vanguard",
+        "Title": "Call of Duty\u00ae: Vanguard",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1985820/header.jpg"
     },
     {
+        "Id": "311340",
         "Title": "METAL GEAR SOLID V: GROUND ZEROES",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/311340/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311340/header.jpg?t=1718869217",
+        "ReleaseDate": "18 Dec, 2014",
+        "Developer": "KONAMI",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
-        "Title": "Need for Speed™ Most Wanted",
+        "Title": "Need for Speed\u2122 Most Wanted",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/header.jpg"
     },
     {
@@ -176,8 +297,14 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2826800/header.jpg"
     },
     {
+        "Id": "2537590",
         "Title": "Microsoft Flight Simulator 2024",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2537590/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1737043940",
+        "ReleaseDate": "19 Nov, 2024",
+        "Developer": "Asobo Studio",
+        "Platforms": [
+            "Windows"
+        ]
     },
     {
         "Title": "Mortal Kombat Komplete Edition",
@@ -192,18 +319,31 @@
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1451940/header.jpg"
     },
     {
+        "Id": "275850",
         "Title": "No Man's Sky",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg"
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header_alt_assets_22.jpg?t=1732716850",
+        "ReleaseDate": "12 Aug, 2016",
+        "Developer": "Hello Games",
+        "Platforms": [
+            "Windows",
+            "Mac"
+        ]
     },
     {
         "Title": "PAYDAY 3",
         "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1272080/header.jpg"
     },
     {
+        "Id": "1643320",
         "Title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "PictureUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/header.jpg"
-    }
-  {
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/header.jpg?t=1736770066",
+        "ReleaseDate": "20 Nov, 2024",
+        "Developer": "GSC Game World",
+        "Platforms": [
+            "Windows"
+        ]
+    },
+    {
         "Id": "100",
         "Title": "Counter-Strike: Condition Zero",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg?t=1729702001",
@@ -386,18 +526,6 @@
         "Developer": "Laumania ApS",
         "Platforms": [
             "Windows"
-        ]
-    },
-    {
-        "Id": "1084020",
-        "Title": "TheoTown",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084020/header.jpg?t=1729507396",
-        "ReleaseDate": "5 Jun, 2019",
-        "Developer": "Lobby Divinus",
-        "Platforms": [
-            "Windows",
-            "Mac",
-            "Linux"
         ]
     },
     {
@@ -609,16 +737,6 @@
             "Windows",
             "Mac",
             "Linux"
-        ]
-    },
-    {
-        "Id": "1144200",
-        "Title": "Ready or Not",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg?t=1733935197",
-        "ReleaseDate": "13 Dec, 2023",
-        "Developer": "VOID Interactive",
-        "Platforms": [
-            "Windows"
         ]
     },
     {
@@ -1167,16 +1285,6 @@
         ]
     },
     {
-        "Id": "1426210",
-        "Title": "It Takes Two",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1730911936",
-        "ReleaseDate": "25 Mar, 2021",
-        "Developer": "Hazelight Studios",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "1446650",
         "Title": "BRAVELY DEFAULT II",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446650/header.jpg?t=1725001894",
@@ -1459,16 +1567,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631470/header.jpg?t=1732532489",
         "ReleaseDate": "10 Sep, 2024",
         "Developer": "Gentleman Rat Studios",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "1643320",
-        "Title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/header.jpg?t=1736770066",
-        "ReleaseDate": "20 Nov, 2024",
-        "Developer": "GSC Game World",
         "Platforms": [
             "Windows"
         ]
@@ -3138,16 +3236,6 @@
         ]
     },
     {
-        "Id": "2537590",
-        "Title": "Microsoft Flight Simulator 2024",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1737043940",
-        "ReleaseDate": "19 Nov, 2024",
-        "Developer": "Asobo Studio",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "2551690",
         "Title": "Sex Bar Simulator \ud83c\udf78\ud83d\udd1e",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551690/header.jpg?t=1726139565",
@@ -3614,17 +3702,6 @@
         "Developer": "SmartPlayGames",
         "Platforms": [
             "Windows"
-        ]
-    },
-    {
-        "Id": "275850",
-        "Title": "No Man's Sky",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header_alt_assets_22.jpg?t=1732716850",
-        "ReleaseDate": "12 Aug, 2016",
-        "Developer": "Hello Games",
-        "Platforms": [
-            "Windows",
-            "Mac"
         ]
     },
     {
@@ -4157,16 +4234,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311310/header.jpg?t=1736789986",
         "ReleaseDate": "13 Jun, 2019",
         "Developer": "Bermuda Computer Club",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "311340",
-        "Title": "METAL GEAR SOLID V: GROUND ZEROES",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311340/header.jpg?t=1718869217",
-        "ReleaseDate": "18 Dec, 2014",
-        "Developer": "KONAMI",
         "Platforms": [
             "Windows"
         ]
@@ -5012,31 +5079,11 @@
         ]
     },
     {
-        "Id": "424840",
-        "Title": "Little Nightmares",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg?t=1730127751",
-        "ReleaseDate": "27 Apr, 2017",
-        "Developer": "Tarsier Studios",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "425580",
         "Title": "The Room Two",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425580/header.jpg?t=1646758355",
         "ReleaseDate": "5 Jul, 2016",
         "Developer": "Fireproof Games",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "42700",
-        "Title": "Call of Duty\u00ae: Black Ops",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg?t=1654809667",
-        "ReleaseDate": "9 Nov, 2010",
-        "Developer": "Treyarch",
         "Platforms": [
             "Windows"
         ]
@@ -5101,17 +5148,6 @@
             "Windows",
             "Mac",
             "Linux"
-        ]
-    },
-    {
-        "Id": "429570",
-        "Title": "The Walking Dead: Michonne - A Telltale Miniseries",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429570/header.jpg?t=1729702885",
-        "ReleaseDate": "23 Feb, 2016",
-        "Developer": "Telltale Games",
-        "Platforms": [
-            "Windows",
-            "Mac"
         ]
     },
     {
@@ -5189,17 +5225,6 @@
             "Windows",
             "Mac",
             "Linux"
-        ]
-    },
-    {
-        "Id": "447020",
-        "Title": "Farming Simulator 17",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
-        "ReleaseDate": "24 Oct, 2016",
-        "Developer": "GIANTS Software",
-        "Platforms": [
-            "Windows",
-            "Mac"
         ]
     },
     {
@@ -5639,16 +5664,6 @@
         ]
     },
     {
-        "Id": "536220",
-        "Title": "The Walking Dead: A New Frontier",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536220/header.jpg?t=1729702791",
-        "ReleaseDate": "20 Dec, 2016",
-        "Developer": "Telltale Games",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "537340",
         "Title": "Guts and Glory",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537340/header.jpg?t=1728654913",
@@ -5820,17 +5835,6 @@
         ]
     },
     {
-        "Id": "571740",
-        "Title": "Golf It!",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg?t=1707842297",
-        "ReleaseDate": "18 Aug, 2023",
-        "Developer": "Perfuse Entertainment",
-        "Platforms": [
-            "Windows",
-            "Mac"
-        ]
-    },
-    {
         "Id": "579490",
         "Title": "RUSH: A Disney \u2022 PIXAR Adventure",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579490/header.jpg?t=1667851409",
@@ -5980,17 +5984,6 @@
         ]
     },
     {
-        "Id": "613100",
-        "Title": "House Flipper",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/header.jpg?t=1735574663",
-        "ReleaseDate": "17 May, 2018",
-        "Developer": "Empyrean",
-        "Platforms": [
-            "Windows",
-            "Mac"
-        ]
-    },
-    {
         "Id": "615530",
         "Title": "Love, Money, Rock'n'Roll",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615530/header.jpg?t=1736889077",
@@ -6008,16 +6001,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616620/header.jpg?t=1727602263",
         "ReleaseDate": "4 Apr, 2018",
         "Developer": "Flaming Firefly",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "617160",
-        "Title": "Home Sweet Home",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617160/header.jpg?t=1544779603",
-        "ReleaseDate": "26 Sep, 2017",
-        "Developer": "YGGDRAZIL GROUP CO.,LTD",
         "Platforms": [
             "Windows"
         ]
@@ -6426,16 +6409,6 @@
         ]
     },
     {
-        "Id": "732690",
-        "Title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/732690/header.jpg?t=1686587846",
-        "ReleaseDate": "28 May, 2019",
-        "Developer": "Steel Wool Studios",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "742420",
         "Title": "Saints Row",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742420/header.jpg?t=1726748689",
@@ -6743,26 +6716,6 @@
         ]
     },
     {
-        "Id": "851850",
-        "Title": "DRAGON BALL Z: KAKAROT",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg?t=1731662591",
-        "ReleaseDate": "16 Jan, 2020",
-        "Developer": "CyberConnect2 Co. Ltd.",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "860510",
-        "Title": "Little Nightmares II",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
-        "ReleaseDate": "10 Feb, 2021",
-        "Developer": "Tarsier Studios",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "863550",
         "Title": "HITMAN\u2122 2",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/863550/header.jpg?t=1674755762",
@@ -6778,16 +6731,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866800/header.jpg?t=1729703141",
         "ReleaseDate": "13 Aug, 2018",
         "Developer": "Telltale Games",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "870780",
-        "Title": "Control Ultimate Edition",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg?t=1726554320",
-        "ReleaseDate": "27 Aug, 2020",
-        "Developer": "Remedy Entertainment",
         "Platforms": [
             "Windows"
         ]
@@ -6928,16 +6871,6 @@
         ]
     },
     {
-        "Id": "920210",
-        "Title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1702937065",
-        "ReleaseDate": "5 Apr, 2022",
-        "Developer": "TT Games",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
         "Id": "921570",
         "Title": "OCTOPATH TRAVELER\u2122",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921570/header.jpg?t=1734425489",
@@ -7071,17 +7004,6 @@
         ]
     },
     {
-        "Id": "960090",
-        "Title": "Bloons TD 6",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1723603688",
-        "ReleaseDate": "17 Dec, 2018",
-        "Developer": "Ninja Kiwi",
-        "Platforms": [
-            "Windows",
-            "Mac"
-        ]
-    },
-    {
         "Id": "960420",
         "Title": "Hello Neighbor: Hide and Seek",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960420/header.jpg?t=1726668836",
@@ -7097,16 +7019,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960990/header.jpg?t=1667468566",
         "ReleaseDate": "18 Jun, 2020",
         "Developer": "Quantic Dream",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "962130",
-        "Title": "Grounded",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1727719725",
-        "ReleaseDate": "27 Sep, 2022",
-        "Developer": "Obsidian Entertainment",
         "Platforms": [
             "Windows"
         ]
@@ -7208,16 +7120,6 @@
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/992300/header.jpg?t=1726969758",
         "ReleaseDate": "26 Jan, 2022",
         "Developer": "\u827a\u9f99\u6e38\u620f",
-        "Platforms": [
-            "Windows"
-        ]
-    },
-    {
-        "Id": "993090",
-        "Title": "Lossless Scaling",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg?t=1736886665",
-        "ReleaseDate": "Dec 28, 2018",
-        "Developer": "THS",
         "Platforms": [
             "Windows"
         ]

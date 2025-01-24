@@ -839,18 +839,6 @@
         ]
     },
     {
-        "Id": "1198730",
-        "Title": "Hentai Police",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198730/header.jpg?t=1712078660",
-        "ReleaseDate": "17 Jan, 2020",
-        "Developer": "Podval Games, KremlinDev",
-        "Platforms": [
-            "Windows",
-            "Mac",
-            "Linux"
-        ]
-    },
-    {
         "Id": "12100",
         "Title": "Grand Theft Auto III",
         "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12100/header.jpg?t=1634144440",
@@ -2626,16 +2614,7 @@
             "Windows"
         ]
     },
-    {
-        "Id": "2246850",
-        "Title": "SEX Room [18+]",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246850/header.jpg?t=1726139392",
-        "ReleaseDate": "4 Feb, 2023",
-        "Developer": "Pirates Of The Digital Sea",
-        "Platforms": [
-            "Windows"
-        ]
-    },
+   
     {
         "Id": "2248760",
         "Title": "Car For Sale Simulator 2023",
@@ -3223,16 +3202,7 @@
             "Windows"
         ]
     },
-    {
-        "Id": "2551690",
-        "Title": "Sex Bar Simulator \ud83c\udf78\ud83d\udd1e",
-        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551690/header.jpg?t=1726139565",
-        "ReleaseDate": "26 Aug, 2023",
-        "Developer": "Pirates Of The Digital Sea",
-        "Platforms": [
-            "Windows"
-        ]
-    },
+
     {
         "Id": "255220",
         "Title": "GRID Autosport",

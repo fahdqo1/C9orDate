@@ -1,14 +1,14 @@
 [
-    { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "time": "11", "addingtime": "", "offtime": "no"},
-    { "uuid": "9D2DD0B5-249D-C9D4-7FF5-08BFB8D31D38", "password": "7", "time": "20", "addingtime": "", "offtime": "no"},
-    { "uuid": "59659680-DF24-11ED-9998-2A178D178A01", "password": "sa1", "time": "20", "addingtime": "", "offtime": "no" },
-    { "uuid": "03560274-043C-05B1-FB06-9D0700080009", "password": "55", "time": "1", "addingtime": "", "offtime": "no" },
-    { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "time": "20", "addingtime": "", "offtime": "yes" },
-    { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "time": "48", "addingtime": "", "offtime": "yes"},
-    { "uuid": "00000000-0000-0000-0000-000000000000", "password": "appleking", "time": "48", "addingtime": "", "offtime": "yes"},
-    { "uuid": "4C4C4544-005A-5310-8037-B9C04F444432", "password": "ozex", "time": "48", "addingtime": "", "offtime": "yes"},
-    { "uuid": "3EA875D4-393C-11E4-9DD6-B6A7F4FB1200", "password": "rakli", "time": "20", "addingtime": "", "offtime": "yes"},
-    { "uuid": "25B519C5-9E7F-11EA-80DD-002B677CE829", "password": "3OMR100", "time": "20", "addingtime": "", "offtime": "yes"},
-    { "uuid": "8C59A1A8-0044-0000-0000-000000000000", "password": "Stitch1", "time": "20", "addingtime": "", "offtime": "yes"},
-    { "uuid": "8ADA5DC1-E02F-A2CD-0890-581122B67664", "password": "kasper22", "time": "48", "addingtime": "", "offtime": "yes"}
+    { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "time": "11", "addingtime": "0", "offtime": "no"},
+    { "uuid": "9D2DD0B5-249D-C9D4-7FF5-08BFB8D31D38", "password": "7", "time": "20", "addingtime": "0", "offtime": "no"},
+    { "uuid": "59659680-DF24-11ED-9998-2A178D178A01", "password": "sa1", "time": "20", "addingtime": "0", "offtime": "no" },
+    { "uuid": "03560274-043C-05B1-FB06-9D0700080009", "password": "55", "time": "1", "addingtime": "0", "offtime": "no" },
+    { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "time": "20", "addingtime": "0", "offtime": "yes" },
+    { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "time": "48", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "00000000-0000-0000-0000-000000000000", "password": "appleking", "time": "48", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "4C4C4544-005A-5310-8037-B9C04F444432", "password": "ozex", "time": "48", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "3EA875D4-393C-11E4-9DD6-B6A7F4FB1200", "password": "rakli", "time": "20", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "25B519C5-9E7F-11EA-80DD-002B677CE829", "password": "3OMR100", "time": "20", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "8C59A1A8-0044-0000-0000-000000000000", "password": "Stitch1", "time": "20", "addingtime": "0", "offtime": "yes"},
+    { "uuid": "8ADA5DC1-E02F-A2CD-0890-581122B67664", "password": "kasper22", "time": "48", "addingtime": "0", "offtime": "yes"}
 ]

@@ -1,4 +1,3 @@
-    { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "start": "2025/1/25", "end": "2025/2/25", "offtime": "no"},
 [
     { "uuid": "00000000-0000-0000-0000-D8CB8A5B0E61", "password": "123", "start": "2025/1/23", "end": "2025/5/1", "offtime": "no"},
     { "uuid": "9D2DD0B5-249D-C9D4-7FF5-08BFB8D31D38", "password": "7", "start": "2025/1/23", "end": "2025/5/1",  "offtime": "no"},

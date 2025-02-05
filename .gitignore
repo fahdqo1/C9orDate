@@ -1,0 +1,5 @@
+# Ignore configuration files that may contain secrets
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env

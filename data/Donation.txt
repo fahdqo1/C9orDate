@@ -2,5 +2,7 @@
   "PayPal": "https://www.paypal.com/",
   "Ko-Fi": "https://ko-fi.com/",
   "BuyMeACoffee": "https://www.buymeacoffee.com/",
-  "Crypto": "https://your-crypto-link.com/"
+  "Crypto": "https://your-crypto-link.com/",
+  "BTC": "Soon",
+  "ETH": "Soon"
 }

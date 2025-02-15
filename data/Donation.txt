@@ -1,8 +1,8 @@
 {
-  "PayPal": "https://www.paypal.com/",
-  "Ko-Fi": "https://ko-fi.com/",
-  "BuyMeACoffee": "https://www.buymeacoffee.com/",
-  "Crypto": "https://your-crypto-link.com/",
+  "PayPal": "https://paypal.me/SaaD8",
+  "Ko-Fi": "https://paypal.me/SaaD8",
+  "BuyMeACoffee": "https://paypal.me/SaaD8",
+  "Crypto": "https://paypal.me/SaaD8",
   "AddresBtc": "Soon ",
   "AddresEth": "Soon"
 }

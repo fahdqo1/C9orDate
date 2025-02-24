@@ -15,5 +15,5 @@
     { "uuid": "3EA875D4-393C-11E4-9DD6-B6A7F4FB1200", "password": "rakli", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes"},
     { "uuid": "25B519C5-9E7F-11EA-80DD-002B677CE829", "password": "3OMR100", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes"},
     { "uuid": "8C59A1A8-0044-0000-0000-000000000000", "password": "Stitch1", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes"},
-    { "uuid": "8ADA5DC1-E02F-A2CD-0890-581122B67664", "password": "kasper22", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes"}
+    { "uuid": "8ADA5DC1-E02F-A2CD-0890-581122B67664", "password": "22", "start": "2025/2/24", "end": "2025/3/10",  "offtime": "no"}
 ]

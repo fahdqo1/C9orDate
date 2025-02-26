@@ -327,109 +327,221 @@
             "Foundation Guivre Garden"
         ]
     },
-	{
-	  "Title": "Marvel\u0027s Spider-Man 2",
-	  "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1738343995",
-	  "ReleaseDate": "30 stycznia 2025",
-	  "Platforms": [
-		"windows"
-	  ],
-	  "Genre": "Akcja, Przygodowe",
-	  "Developer": "Insomniac Games, Nixxes Software",
-	  "Publisher": null,
-	  "Screenshots": [
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_7ef8bc176702470fdc73f62f8e537c3912e70444.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_474a7ffe98998719c22025cc99da1f45dfca025e.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_aa8346cf207a1e114c5f9e7f6c3086c5dc9c3050.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b34716a6d4505bfe32f83530e46aac5a5728f441.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_0fda7c96ee3f16038559fffa8c2cd7b3ac433c2b.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_2fb76f7e76dbddf87715d18ae1bcb5cd1dda5747.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_74e612eb0ae275bd6e7f69d407dda8b03d83629f.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_03d59d4e4a6638b1e0200bc3dde2a0b0d1a43ada.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_cde4862328227ea8cfb2981c92b6411b705ed0f4.1920x1080.jpg?t=1738343995",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_c6a0adf568d91d49a5c0f7f5e4df7e1cef71ee28.1920x1080.jpg?t=1738343995"
-	  ],
-	  "SystemRequirements": null,
-	  "DownloadLink": null,
-	  "Description": "No description available"
-	},
-	{
-	  "Title": "Call of Duty\u00AE: Modern Warfare\u00AE 3 (2011)",
-	  "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/header.jpg?t=1692032509",
-	  "ReleaseDate": "8 Nov, 2011",
-	  "Platforms": [
-		"windows"
-	  ],
-	  "Genre": "Action",
-	  "Developer": "Infinity Ward, Sledgehammer Games",
-	  "Publisher": null,
-	  "Screenshots": [
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_990f54dedf70e6b264a73c6eb6a5102f1d8544b7.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_530a9232c9fc6144fa7a6ef03c7bc822acdc180b.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_6d429f8fd41fb63a22c04069b6317ea48e49c8d7.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_d36b4d8da4691318e6d8138b7a28ee6c41ce5cec.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_c12675924545e035d700a4f57983a2c7161c5e59.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_b8daa5ed6f9ece521e2b0387107a8c18b556a324.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_7dac1f364c3140430d936546c4775d99e2c1d1e3.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_2a821fdedb4103bc768c8c9d6d4e2e83c0e355f6.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_eb46148984c39518162d7695a4428a6916a025aa.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_60103358eae40cfe50ee857a642ce8e60be58ab0.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_0d8656bf3a86fba3a4d4c886b2afa13b965e5cea.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_d055cb6a00ea2e8fe6a8cf1d83ecb57503bd61bf.1920x1080.jpg?t=1692032509",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/ss_089ee3cb64a51e4685d057804d55bb3566418af6.1920x1080.jpg?t=1692032509"
-	  ],
-	  "SystemRequirements": null,
-	  "DownloadLink": null,
-	  "Description": "No description available"
-	},
-	{
-	  "Title": "Total War: SHOGUN 2",
-	  "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/header.jpg?t=1724864318",
-	  "ReleaseDate": "15 Mar, 2011",
-	  "Platforms": [
-		"windows",
-		"mac",
-		"linux"
-	  ],
-	  "Genre": "Strategy",
-	  "Developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
-	  "Publisher": null,
-	  "Screenshots": [
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_6054b66e4b0b3beb25abd977526df59bdde0f58e.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_2bea34ef7b93555dba96cc1febaf3f752aa3274f.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_333be0aca0dec5c08ab6556bb0b597afb6509c10.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_905c2c42c1059cc9abc05ab212620c62b896cc88.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_03704ee5652efd1c4b95397a712f4dfd951629a0.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_8c5baf80646c4bcd41c5ba23556ff7d23efa806f.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_61205ebc6931862bd2d92aaa209dc19b8603c602.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_6f110960b1c5b1944a5f07d8473a40bf795841a3.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_8a753539083efc83c824e28e1d6619b2928cbed4.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_f58a2312857f3fe31f82b3191c7d38507d5aabc0.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_e135383a9f952f185aca67e876e54df999e6f486.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_57cbf909d224e999a033200746b500a04ce1fe0b.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_16aa37e74119928f0e8c5d6a6f0b97a2c8ac02b0.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_a645c9bee3ee4d53bf55b87997a115ebbc9338f1.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_83651bbd4b21419f0b4a41940a21a2eaa26adca2.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_f643f34f4d0954c61c06c111ba534529f84631c2.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_cd832dc5cd57d5b70b7242919a1056b51328d97a.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_03dcf7d9b83ce0fafadcd40209f9c1ff7361cb68.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_014eeb3938b6785dbb9561ff7d26b25bbca0b555.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_cba971077a97bd3d33466c84b91914d310cefae6.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_64e439ed0240b2e6e8a2e95fee296592574ae906.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_d7384d1b48065c950f0d5fefdc48af1d4f0d4e8e.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_5bf35765b29df650adeb89394917d051c5c33982.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_3fb9449c1b488f4f0ac10a7e2977134cec01ea77.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_a3eb921748dbcb5e8ac52680971e31a4d31d1989.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_d5f25e95947de88d9b1ee59c8ab276aee0408d97.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_c9f27f7f2d1ccb371e894be0a31799f2f149f776.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_3e45c0a074559df76344de2c9b1044cf95552e4e.1920x1080.jpg?t=1724864318",
-		"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_ef33b1d97421f96bea363c669308292a59f3e8e5.1920x1080.jpg?t=1724864318"
-	  ],
-	  "SystemRequirements": null,
-	  "DownloadLink": null,
-	  "Description": "No description available"
-	}
+    {
+        "Id": "2651280",
+        "Title": "Marvel's Spider-Man 2",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1738343995",
+        "ReleaseDate": "30 stycznia 2025",
+        "Developer": "Insomniac Games, Nixxes Software",
+        "Genre": "Akcja, Przygodowe",
+        "Platforms": [
+            "windows"
+        ],
+        "Screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_7ef8bc176702470fdc73f62f8e537c3912e70444.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_474a7ffe98998719c22025cc99da1f45dfca025e.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_aa8346cf207a1e114c5f9e7f6c3086c5dc9c3050.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b34716a6d4505bfe32f83530e46aac5a5728f441.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_0fda7c96ee3f16038559fffa8c2cd7b3ac433c2b.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_2fb76f7e76dbddf87715d18ae1bcb5cd1dda5747.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_74e612eb0ae275bd6e7f69d407dda8b03d83629f.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_03d59d4e4a6638b1e0200bc3dde2a0b0d1a43ada.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_cde4862328227ea8cfb2981c92b6411b705ed0f4.1920x1080.jpg?t=1738343995",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_c6a0adf568d91d49a5c0f7f5e4df7e1cef71ee28.1920x1080.jpg?t=1738343995"
+        ],
+        "ShortDescription": "Be Greater. Together. Niesamowita moc symbionta zmusza Petera Parkera i Milesa Moralesa do desperackiej walki o przetrwanie. Czy uda im się odnaleźć równowagę między życiem prywatnym i przyjaźnią a ochroną potrzebujących pomocy w tym ekscytującym rozdziale słynnej serii Spider-Man?",
+        "DLCs": "No DLCs found"
+    },
+	 {
+        "Id": "1013140",
+        "Title": "Outcast - A New Beginning",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/header.jpg?t=1731427156",
+        "Background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/page_bg_generated_v6b.jpg?t=1731427156",
+        "ReleaseDate": "15 Mar, 2024",
+        "Developer": "Appeal Studios",
+        "Genre": "Action",
+        "Platforms": [
+            "Windows"
+        ],
+        "Screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_58b596ea188fb419832fb57bc9b9bc278e45353b.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_3066958383449d8f1ff7de7ea20c56af2355242d.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_a518802bbb3f7ef2ea53becfa9fa4ddd514642c0.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_461c618e0400301b901d3d7475fef416131a39df.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_fe376f22d3f379c9d54437e8d791173ee5ba3a8a.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_53d94dcd08fbe6a6978fa06875fd86da60f614c4.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_b2c04cec8be1327aeda719960c9aea466f0e7ff8.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_6db37458b665974c06548eeef32b7d126df95f9d.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_75666de5f993cac4c4d18f571884657ea69626e0.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_b527fe28c3ae7a1ec0e7da1d5a943e0ae8056be4.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_aeea549e662801c6672a35ddae201570c24b59e6.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_386e6950215d0eed1f32ae561658d3749c370195.1920x1080.jpg?t=1731427156",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/ss_65c47691a6bd5e10a8c63cdc657052c08ec50c63.1920x1080.jpg?t=1731427156"
+        ],
+        "MetacriticScore": "N/A",
+        "IsFree": false,
+        "Description": "20 years after the award-winning action adventure hit, Outcast, pioneered the genre of non-linear open-world games, the long-awaited sequel sees Cutter Slade return to the spectacular alien world of Adelpha. Resurrected by the almighty Yods, he has returned to find the Talans enslaved, the world stripped of its natural resources, and his own past intertwining with the invading robot forces. It's up to him to go on a mission and save the planet again.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/extras/flight_8mb.gif?t=1731427156\" /><br><br>The original team behind Outcast 1 has reunited to create this fascinating world, full of dangerous creatures and home to the Talan people – an ancient culture whose fate has become inextricably linked with earth since the events of the first game. You play as Cutter Slade, ex-Navy SEAL, sporting the same dry wit he had back in the 90s – however, the world around him has changed and eventually, so will he.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/extras/combat01_6mb.gif?t=1731427156\" /><br> <br>To save Adelpha, you will … <br><br><ul class=\"bb_ul\"><li>use your jetpack to jump, air-dash, glide, and quickly traverse the fantastic in-game open world <br></li><li>combine dozens of different modules to create your own personal weapon for taking down the robot invaders <br></li><li>have total control to approach the story at your own pace in this non-linear world <br></li><li>explore the world without boundaries, discover hidden temples and dangerous wildlife <br></li><li>get familiar with the Talan culture while helping them free their villages and gain access to ancient Talan powers that use forces of nature to destroy your enemies <br></li><li>experience a beautiful, hand-crafted world accompanied by an epic soundtrack by Outcast's original composer, Lennie Moore </li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/extras/combat02.gif?t=1731427156\" />",
+        "DLCsId": [
+            2469210
+        ],
+        "DLCs": [
+            "Outcast - A New Beginning Soundtrack"
+        ]
+    },
+  {
+        "Id": "1063420",
+        "Title": "Void Crew",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/header.jpg?t=1736940662",
+        "Background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/page_bg_generated_v6b.jpg?t=1736940662",
+        "ReleaseDate": "25 Nov, 2024",
+        "Developer": "Hutlihut Games",
+        "Genre": "Action, Adventure",
+        "Platforms": [
+            "Windows"
+        ],
+        "Screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_f8a4f75eabe60db2247bb432786485995ec617fa.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_7b77f2f6a2afc5542dcf6155a77748bee6a7a37f.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_c21e4635c827694c6a6579723a39fc06e796b244.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_2f9b724e19547961d2acc4b505e599bd0523c8cf.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_9992b0191f0c1e7fe47880852290f58e83539a3e.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_64552bbe3acf1b406f774f833efd69346b3364a0.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_7533ff7e04177711a67ca24f2dd5ef26e1648818.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_7fd48d6e37c7180c4be61a4483c6a517dd96602b.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_f44dca5127b6d76040b88d3c9adf99dc7d48705e.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_f61b92442dc026bb8ab978529aa6c6b2fe16a275.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_214ddf805a8ef181023d2607a3dc57d828a21c11.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_64d773f298de9db2ed1ccd37c9b332c1bdb015bb.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_e4de6b08634cb62cd0400fb671c28d8114e58c86.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_c55e451a5f1e5a4661446b7456f9b161e94bbedd.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_cd9c693ca591cb5a92a20cbef249d025d9004129.1920x1080.jpg?t=1736940662",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_4406047c17075faef2b9cf2bc685dbd1c33d9e34.1920x1080.jpg?t=1736940662"
+        ],
+        "MetacriticScore": 80,
+        "IsFree": false,
+        "Description": "<h1>Join our Discord</h1><p><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/extras/Void_Crew-discord_banner_newGIF.gif?t=1736940662\" /></p><br><h1>About the Game</h1><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/extras/Void_Crew-WelcomeAboard_15MB-v2.gif?t=1736940662\" /><br><br>Void Crew is a 1-4 player co-op First Person Space Adventure: Rally your crew, power your spaceship, and get ready for epic space battles, facing chaotic dangers you and your crew never trained for!<br><br><i>In the future, a doctrine of survival unites humanity against a mysterious aggressor - the Hollow. As the chosen ones, it’s up to you as a <strong>crew of up to 1-4 mavericks</strong> to brave the void and bring order to the galaxy!</i><br><br>Embark on the most advanced spacecrafts ever built, and journey into deep space on thrilling missions that you and your crew absolutely never trained for! Asteroid storms, solar flares and your buddies’ screw-ups will be the least of your worries, as hostile aliens, and desperate human  scavengers push your crew to their limits.<h2 class=\"bb_tag\">CHAOTIC 1 - 4 -PLAYER CO-OP</h2><br>Pilot the ship, man the turrets, perform emergency repairs, recharge the power cells, utilize space station weaponry, fabricate munitions and exit the ship on extravehicular missions - be it patching the ship hull or scavenging derelict wrecks.<h2 class=\"bb_tag\">EPIC SPACE BATTLES</h2><br>Teamwork is key: pick a role and prioritize your most urgent tasks with your crew... or try to do everything at once and just wing it as you’ll be short on reliable manpower!<h2 class=\"bb_tag\">SHARE AND OPERATE YOUR OWN SPACESHIP</h2><br>Brute force through thick armor, pierce energy shields, launch missile barrages or snipe weak spots - either way you’ll make sure the enemy ships spin out of control to their destruction - preferably before you blow up! The victor claims the spoils, and you’ll need to scavenge valuable materials to upgrade and face the direst conditions with top notch equipment … and don’t forget to go full fashion victim and customize your character's spacesuit to fly in style and boldly go where you probably shouldn’t have!<br><br><ul class=\"bb_ul\"><li><strong>Team-up as a crew of 1-4 in co-op:</strong> Round up your best buddies and you're in for a wild space ride!</li></ul><br><ul class=\"bb_ul\"><li><strong>Your ship, your way to play:</strong> With a flexible player role system and on-the-go installable ship systems you’ll be able to switch your strategies faster than a rogue asteroid changes course.</li></ul><br><ul class=\"bb_ul\"><li><strong>Customize and upgrade:</strong> Give your character a spiffy new look with rich upgrades, or add more toys to your ship! You'll be the most powerful and stylish crew in the galaxy!</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/extras/gif_end_of_page.gif?t=1736940662\" />",
+        "DLCsId": [
+            2445890,
+            3065730
+        ],
+        "DLCs": [
+            "Void Crew - Original Soundtrack"
+        ]
+    },
+    {
+        "Id": "1101120",
+        "Title": "Gunsmith Simulator",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/header.jpg?t=1736432304",
+        "Background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/page_bg_generated_v6b.jpg?t=1736432304",
+        "ReleaseDate": "4 Oct, 2024",
+        "Developer": "GameHunters",
+        "Genre": "Action, Simulation",
+        "Platforms": [
+            "Windows"
+        ],
+        "Screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_c7805b0735ceff74dc0eae4a3d5480f46e3f8376.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_c9e79854a7e3520d74b07492d44f63da982d6245.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_9a7be08747e929dbf65916d5880c98c12c368c65.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_ede664634c7cb4c355efdc928972e525b00419fb.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_b1d71ebb0ec14b7ed38380458da21162eed5d5b9.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_dd7e2532ae80863de45faf73b480ccd3241b8a8c.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_6c4ded444a3f25e5032fee7228ab5850156d951c.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_17c207ae85627d6caad724177d04d3a028527b24.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_db13adbee4030f7d1121d4a53b32c6a028b65ceb.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_f8959bba76e127411a56a77d19e47f6c0634e498.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_774b026800a51cd7eea088fe3c7683049519b5ef.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_a75ead1361d55432d9dffb320ad07be6280095b7.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_9c731f265ef079060a240fd41343d7c76df32e7e.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_7279d562b6c42720df5845489f6774e8dc9fb2e8.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_7a857acf828bf8d68330bc7fe031779fd9ed7050.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_4c67aea156627add07b15af675f33e63ca1068f7.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_66d90e6fff224651be10762afaf8f3675333106a.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_323153faf7a57fa40df6d3f289597876cc530241.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_8c54884f8fbaf35a1a0f13e9ca36af737356c579.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_a272cb856d3c769409684a12eaa6afc344456d5d.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_a7da9d448c737a86836a975be6eca91939a9c291.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_8bf52cb77c857f014ae6ace3a4e43bec25ff669f.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_4d55ee362fcef12bf677b7909b484c5d9b816362.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_5ec1da43d1d856348c27db402d9e5b586b1c8d26.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_9fbec8b4059b2de94a18fece355070cce0d54800.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_3c4579f2adbbef7c4f27a8e0ae91ef31893f1188.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_919d768be52edbf70fbc056db6b21abbc6b02840.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_8ec9d1c6e4662fd90345c9b34a889b4fb786a2bb.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_c49832602b6931bef057a41d48393c0015d5e170.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_b8d7d13d6c622bc76cfe8864680807ea8fb92f2c.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_4d5e1f8a09918b63b26013dae4d56c01c7101c27.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_241fa0e1b675520c272c51cc3ff8d3a326b9911d.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_b55137a10f23ec4dbf210361d166910c558eb117.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_4d6c7f428c9de5548175a71e65af98ec7334b2fa.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_1c657066e0cf1631f31be98b936be72cc52cb51c.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_09b8313eabf26f22b8c25300b464a78630e946c5.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_f6b3fb8e421bbd094f5333fb65b3de2f1eb2fc62.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_c9dfeec91e148b369da6405d79715750d67ce42e.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_f5f91bc6524051d05e0a9fbc626f0333e99c95ed.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_66fa9f6dca233cc4e1d9000c058646e77b672d51.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_e79204c6dda2b2457feef48da67a1794a15ad4af.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_30a1d938740ce9cb0d97f123dd77ee2a585fe1b5.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_3871b1b2a8d9970a9d327b3a1ac93581291b533a.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_ce1c11ea48c4dd87a0c40ff9667d40bf48e1f5bf.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_831dd984c53a094d795b0ea058dbb588b81ac4ea.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_03311d24500e0d089c9ec258573001542f0bf870.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_cd4a1a7ba831aeddbb7b628a8dffe7035a51ae4c.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_6ed431308922590a1e92bc11ad8c5e59a55c775a.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_4a0a262349af5db2fcb11134a05a718002315a08.1920x1080.jpg?t=1736432304",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/ss_2ba9ccb69373ff5640d5566a4e7068132fce80f7.1920x1080.jpg?t=1736432304"
+        ],
+        "MetacriticScore": "N/A",
+        "IsFree": false,
+        "Description": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/1.png?t=1736432304\" /><br>There's nothing like the smell of coffee combined with the metallic one of repaired guns in the morning... All you have to do is become a virtual gunsmith, and that's how you'll start each working day. You have already set up a workshop, equipped it, and learning the trade came naturally to you.  Now all that's left to do is get the first order.  Fire up your computer, go to the &quot;GunStock&quot; website and browse the available auctions and listings. You may be lucky enough to find someone who just needs your skills!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/2.png?t=1736432304\" /><br>The first order came in! This is a sign that it's time to get down to work. Order the right parts or take matters into your own hands to create wooden and metal elements using specialized tools, such as a lathe or CNC machine.  Examine your &quot;patient&quot; inside out and decide which parts of the weapon need to be replaced and which can be repaired.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/3.png?t=1736432304\" /><br>Some people say looks is not everything ... It's hard to blame them because they've probably never seen a perfectly preserved Kar98. Renovation of old guns is also your responsibility. Clean the weapon and get rid of rust from old elements by treating their surface manually or using appropriate chemical treatments such as oxidation.  Renew the protective layer of wood and metal surfaces to keep them in good condition. And after all the hard work, it's time for the fun part - painting! Fancy adding some shades of red color?<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/4.png?t=1736432304\" /><br>Be creative! Push the boundaries of what's possible and deliver what clients ask for! Change weapon configurations and customize equipment with modern accessories. Check optical sights, pistol grips or lasers. Add flashlights or collimators to create weapons with maximum unique features, perfectly suited to the individual needs and style of each enthusiast. Let your works become a symbol of perfection and a dream come true for the fussiest clients!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/5.png?t=1736432304\" /><br>After a hard day of putting your gunsmithing skills to work, you deserve to relax. And what better way to unwind than going to your favorite shooting range? There you will be able to fully use your shooting skills and satisfy your passion. If you need a moment of calm and concentration, you can focus on precise shooting at targets placed at various distances, setting yourself time challenges and honing your shooting skills. If, on the other hand, you prefer technical challenges, you can turn your attention to precise shooting at moving targets in such competitions as skeet or trap, improving both your accuracy and reaction speed. Also, for those who prefer intense experiences, we recommend trying a short-range clash on a specially set CQB shooting range or a destructive shooting course, where you can master your tactical skills.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101120/extras/6.png?t=1736432304\" /><br>You've finished your order, so it's time to send the gun to a satisfied client! However, don't wait too long, because more jobs are waiting for you! Whether you continue to work for free or expand your business by owning, buying and selling your own guns, remember that your passion for guns builds your ladder of success!",
+        "DLCsId": [
+            3288480,
+            3338830
+        ],
+        "DLCs": [
+            "Gunsmith Simulator - Flint & Powder",
+            "Gunsmith Simulator Soundtrack"
+        ]
+    },
+   {
+        "Id": "1128860",
+        "Title": "Men of War II",
+        "PictureUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/header.jpg?t=1735827939",
+        "Background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/page_bg_generated_v6b.jpg?t=1735827939",
+        "ReleaseDate": "15 May, 2024",
+        "Developer": "Best Way",
+        "Genre": "Action, Simulation, Strategy",
+        "Platforms": [
+            "Windows",
+            "Linux"
+        ],
+        "Screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_ccbcb9f7680336d745fdc7db036961f312073710.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_96487c455abe12d84fa57c487e4d05807089eb5d.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_6a6e8fb986c72dd4436566373debb93bfa9d5f57.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_3466316c3a6e2ba97aacd4aec717f277c29f8430.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_fcb7b7f6d48cba4992f1943fa6ca9228a2eb619b.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_ae1e8e2c86bff77c53b8229b449c08022c73a08b.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_0af7fa5fe8bf78ba7c90fea77f6bf0f6a99dd24d.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_cfb771929a3736ef501677344303ae60b1e4fe6a.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_3165563c147ae86a940d06133b1d1a7579fd1727.1920x1080.jpg?t=1735827939",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/ss_129611bb9ddee9bf33a063e448dcf50438d463e8.1920x1080.jpg?t=1735827939"
+        ],
+        "MetacriticScore": "N/A",
+        "IsFree": false,
+        "Description": "<h1>FRONTLINE HERO PACK</h1><p><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/Men_of_War_II_Frontline_Hero_Pack.png?t=1735827939\" /><br><br>The Frontline Hero Pack provides any true fan of Men of War II with the following perks:<br>•\t2 exclusive profile badges and 6 exclusive avatars to make sure you stand out from the crowd<br>•\tInstant unlock* of 4 collectible tank units to use in multiplayer matches<br>•\t10 beautiful desktop wallpapers<br><br>The Frontline Hero Pack instantly unlocks the following collectible units*:<br><br><strong>•\tM4A3E8 “Sherman”</strong><br>o\tA US Army medium tank, the latest modification of the M4A3E8 with a 75mm gun. It is a beautiful, but deadly war machine with a unique camouflage design, pin-up art, and decorative exterior elements.<br><br><strong>•\tPanther Ausf. A</strong><br>o\tA German medium tank, the latest modification of the Pz.Kpfw. V class with a 75mm gun. A formidable predator with excellent combat characteristics and unique camouflage, capable of intimidating even experienced hunters on the battlefield.<br><br><strong>•\tT-34-85</strong><br>o\tA Soviet medium tank, the latest modification of the T-34 class with an 85mm gun. It can hold its own and emerge victorious from any battle, since it features a unique camouflage system that distinguishes it from its brothers on the battlefield. In the right hands, it can become a deadly threat to any enemy.<br><br><strong>•\tT-34-85M</strong><br>o\tSoviet medium tank, the latest modification of the T-34 class with an 85mm gun. It features a modified camouflage design and spaced armor which reduces the destructive effect of anti-tank rounds. This is an experienced fighter, ready for any surprises.<br><br>*all units are available for unlocking via in-game actions as well.</p><br><h1>About the Game</h1><p class=\"bb_paragraph\">Experience World War II real-time strategy gameplay like never before! Men of War II, the new chapter in the evolution of the top-rated RTS franchise, brings you an unprecedented number of units with different specializations to command, unyielding attention to historical fidelity, new levels of visual and audio excellence, as well as advanced enemy AI. Lead your troops in intense real-time battles on the Western and Eastern Fronts and overwhelm your opponents in epic narrative single-player campaigns and skirmish modes before diving deep into the multiplayer action.</p><p class=\"bb_paragraph\"> </p><p class=\"bb_paragraph\">Utilize sophisticated military strategies, lay ambushes, capture enemy vehicles or weapons, and show your ability as the greatest military leader of all time. Attain full command of different roles: from Artillery and Armor to Infantry and Support. Blast entire buildings to smithereens or construct fortifications to reshape the battlefield - from trenches and dugouts to bunkers and minefields. Use the Direct Control feature to precisely manage any single unit on the field at any time. Dive deep into classical combat mechanics combined with all-new gameplay features and experience the intensity of one of the longest-running series of WWII games in an exciting new way.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">Men of War II also boasts a staggering breadth of gameplay options: whether you prefer a realistic take on World War II strategy typical for previous entries in the franchise or enjoy a more casual experience; the captivating stories of narrative campaigns or experimenting with different tactics in ever-changing dynamic modes; challenging other commanders in ranked matches or customizing every detail of each battle in a lobby, Men of War II offers an astounding amount of content to sate your thirst for battle.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/aircraft_complete_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_1_updated.png?t=1735827939\" />Experience epic stories told in three narrative campaigns — lead the desperate Soviet defense against the initial brutal onslaught on the Eastern Front; become a US commander in Normandy, having to improvise with limited resources and adapt to unfamiliar ground, in order to overcome the Nazi war machine; or step into the shoes of an old, disillusioned Wehrmacht officer on the retreat to Berlin, inadvertently delaying the defeat of the regime he himself hates.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/town_battle_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_2_updated.png?t=1735827939\" />Enjoy a more open experience as you take on Historical Campaigns inspired by the Soviet Operation Bagration and the US Operation Overlord with customizable battalion setups and strategies, or the endless possibilities of the fully dynamic Conquest campaign and the skirmish-like Raids, where no two playthroughs are ever the same.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/tanks_city_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_3_updated.png?t=1735827939\" />Jump into the biggest and most varied multiplayer mode in franchise history and challenge other players in clashes ranging from 1v1 to 5v5; command a specialized Battalion and find the right synergy with your team-mates; take a more generalist approach with Combined Arms or lead all your nation’s units in the Classic Mode, resembling the Men of War: Assault Squad 2 experience. Take competition to the next level in Match-making and Leagues, tweak a wide range of options in custom Lobbies, or play any part of the single-player content in co-op with up to 4 other players.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/varied_units_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_4_updated.png?t=1735827939\" />From nigh-indestructible tanks, devastating artillery, and nimble airplanes to realistic models of infantry armament and military equipment, Men of War II features the most extensive and highly detailed WWII locations, vehicles, and characters roster in the series to date: three armies, 45 customizable battalions, and close to 400 different units await your commands.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/katushas_fire_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_5_updated.png?t=1735827939\" />Experience the classical theater of war from a new perspective: every location comes to life with a unique set of fully destructible objects, realistic physics, and immersive sound design. Men of War II takes audio-visual excellence to a new level for the series, with native support for up to 4K resolution and ultra-wide, 21:9 aspect ratio, Physically Based Rendering, and other enhancements. At the same time, the game’s engine takes full advantage of 64-bit, multithreading processing to ensure the best possible optimization and smooth experience even on lower-spec PCs.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/katushas_impact_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_6_updated.png?t=1735827939\" />Veterans of the series will enjoy the myriad of detailed settings and tweaks available to create a gameplay experience tailored exactly to their liking, with options ranging from turning various UI elements on or off, to the amount of Command Points and Manpower resource available in a match; while others will appreciate the possibility to just jump into a quick match-making battle or use a pre-set roster of units in a mission with no hassle.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/seasons_cropped.gif?t=1735827939\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128860/extras/header_EN_7_updated.png?t=1735827939\" />Create and share your own war scenarios using a special level design and modding toolset for Men of War II, fully integrated with Steam Workshop. Now the choices are up to you: your creativity; your vision; your skills. The tactical possibilities are endless.</p>",
+        "DLCsId": [
+            2530660,
+            2530640,
+            2530630
+        ],
+        "DLCs": [
+            "Men of War II - Frontline Hero Pack",
+            "Men of War II - Digital Artbook",
+            "Men of War II - Official Soundtrack"
+        ]
+    }
 ]

@@ -8,7 +8,7 @@
     { "uuid": "03560274-043C-0571-9D06-E90700080009", "password": "99", "start": "2025/2/25", "end": "2025/4/25", "offtime": "no"},
     { "uuid": "1783C16E-3B2B-8F57-A76A-107C61441D4E", "password": "25", "start": "2025/2/13", "end": "2025/2/25", "offtime": "no"},
     { "uuid": "2B7C0D68-96EE-0579-66EB-581122CF1D47", "password": "77", "start": "2025/1/31", "end": "2025/2/28",  "offtime": "no" },
-    { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes" },
+    { "uuid": "AD27874A-5097-C04E-92AA-98AF57B574D5", "password": "qi.b7", "start": "2025/3/5", "end": "2025/3/15",  "offtime": "no" },
     { "uuid": "4FC48571-8FF1-4F30-B168-BF3CB7E19C96", "password": "mibar", "start": "2025/1/25", "end": "2025/2/25", "offtime": "no"},
     { "uuid": "4C4C4544-0054-5010-8056-C6C04F444E33", "password": "mibar", "start": "2025/1/25", "end": "2025/2/25", "offtime": "no"},
     { "uuid": "00000000-0000-0000-0000-000000000000", "password": "appleking", "start": "2025/1/23", "end": "2025/1/25",  "offtime": "yes"},

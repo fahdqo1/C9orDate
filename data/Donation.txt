@@ -1,8 +1,8 @@
 {
-  "PayPal": "Not available",
-  "Ko-Fi": "Not available",
-  "BuyMeACoffee": "Not available",
-  "Crypto": "Not available",
+  "PayPal": "https://epicao.servegame.com/#",
+  "Ko-Fi": "https://epicao.servegame.com/#",
+  "BuyMeACoffee": "https://epicao.servegame.com/#",
+  "Crypto": "https://epicao.servegame.com/#",
   "AddresBtc": "187cC4f2Xy3YL4aZBnoin8PPbfZL7XojUC",
   "AddresEth": "0x07740ec1ea7ee088c508750d054354df53cc97ea"
 }

@@ -1,5 +1,5 @@
 {
-  "latest_version": "14.0.0",
+  "latest_version": "15.0.0",
   "update_url": "https://epicao.servegame.com/downloads",
   "message": "A new version of the app is available. Please update to continue."
 }

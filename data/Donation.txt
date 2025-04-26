@@ -1,5 +1,5 @@
 {
-  "PayPal": "https://epicao.servegame.com/",
+  "PayPal": "https://paypal.me/SaaD8",
   "Ko-Fi": "https://epicao.servegame.com/",
   "BuyMeACoffee": "https://epicao.servegame.com/",
   "Crypto": "https://epicao.servegame.com/",

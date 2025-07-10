@@ -1,5 +1,5 @@
 {
   "latest_version": "21.0.0",
-  "update_url": "https://epicao.servegame.com/Epicano.rar",
+  "update_url": "http://discord.gg/TMyf5GbMYM",
   "message": "A new version of the app is available. Please update to continue."
 }
